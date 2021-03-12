@@ -40,7 +40,7 @@ router.get('/', function(req, res, next) {
       secure: false, // true for 465, false for other ports
       auth: {
         user: "mehulgoswami876@gmail.com", // generated ethereal user
-        pass: "mehul1998" // generated ethereal password
+        pass: "Password" // generated ethereal password
       }
     });
   
